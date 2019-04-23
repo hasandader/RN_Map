@@ -7,7 +7,7 @@ This app is built to explain the usage of Maps in React Native.In this app the f
 5. Saving the selected places and display them in another screen,
 6. Detecting the user current location.
 
-**Note:** Make sure to insert your own API-KEY in the code in RN_Map/RN_Map/android/app/src/main/AndroidManifest.xml to be able to use the map.
+**Note:** Make sure to insert your own **API-KEY** in the code in **RN_Map/RN_Map/android/app/src/main/AndroidManifest.xml** to be able to use the map.
 * You can find more information and detailed explanation for the app in a series of articles I published in my medium account, and here is the link: https://medium.com/@hasandader/build-maps-and-save-locations-by-using-react-native-redux-navigation-icons-maps-part-i-21359d3aba84
 ## Usage
 - git clone https://github.com/hasandader/RN_Map.git
